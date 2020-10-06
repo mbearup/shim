@@ -1,0 +1,5 @@
+fixup_git.patch
+uname.patch
+avoid_null_vsprint.patch
+check_null_sn_ln.patch
+cbld.patch
